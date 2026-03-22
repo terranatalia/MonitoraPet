@@ -1,0 +1,21 @@
+{
+  "name": "monitorapet",
+  "version": "1.0.0",
+  "description": "PROPOSTA DE PROJETO INTEGRADOR DA DISCIPLINA DE APLICAÇÕES MÓVEIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taynah-M-Alves/MonitoraPet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Taynah-M-Alves/MonitoraPet/issues"
+  },
+  "homepage": "https://github.com/Taynah-M-Alves/MonitoraPet#readme"
+}
