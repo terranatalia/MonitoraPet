@@ -3,17 +3,18 @@ PROPOSTA DE PROJETO INTEGRADOR DA DISCIPLINA DE APLICAÇÕES MÓVEIS
 
 **Equipe:** MonitoraPet
 
-**Integrantes:**
+### **Integrantes:**
 
 1. **Arthur Macedo**- *Desenvolvedor Front-End, QA/Tester.*
-2. **Natália Terra** - *Desenvolvedora Front-End, Líder Técnico, UX/UI Designer.*
-3. **Taynah Alves** - *Desenvolvedora Back-End.*
+2. **Clara Freitas** - *Desenvolvedora Back-End.*
+3. **Natália Terra** - *Desenvolvedora Front-End, Líder Técnico, UX/UI Designer.*
+4. **Taynah Alves** - *Desenvolvedora Back-End.*
 
-**Projeto Escolhido:  MonitoraPet**   
+### **Projeto Escolhido:  MonitoraPet**   
     
 **Descrição:** Aplicativo com função de conectar Pet Shops e donos de animais domésticos e notificar os tutores do status do atendimento do animal sob cuidado dos estabelecimentos.
 
-**Funcionalidades Principais:**
+### **Funcionalidades Principais:**
 
 1. Notificações de atualizações do status do atendimento, desde o check-in do animal até a retirada/entrega do animal em domicílio;
 2. Acompanhamento da localização do animal em caso de entrega em domicílio;
