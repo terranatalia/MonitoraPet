@@ -24,7 +24,7 @@ export function ResetPasswordScreen() {
                     keyboardTypeProp='default'
                     isPassword={true} />
 
-                <Text style={styles.voltarLogin}>Lembrei a senha? <Text style={styles.LoginLink}>Entrar</Text></Text>
+                <Text style={styles.LoginLink}>Lembrei a senha</Text>
 
                 <TouchableOpacity style={styles.button}>
                     <Text style={styles.buttonLabel}>Salvar Senha</Text>
